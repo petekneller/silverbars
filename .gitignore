@@ -1,5 +1,6 @@
 # ensime
 
+.ensime
 .ensime_cache/
 
 # sbt
